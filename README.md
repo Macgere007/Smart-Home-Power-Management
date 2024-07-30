@@ -36,7 +36,8 @@ MATERIALS
   - **Switch**
     - Switch 2960
       
-METHODS
+METHODS 
+<br>
 In this project, the author utilizes Cisco Packet Tracer, a software tool essential for simulating
 and monitoring IoT devices in electronic systems.
 
