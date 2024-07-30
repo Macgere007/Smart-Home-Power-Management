@@ -69,7 +69,7 @@ and monitoring IoT devices in electronic systems.
 RESULTS AND DISCUSSION
 
 Connection: All devices, server, and router are connected
-![Screenshot 2024-07-21 131434](https://github.com/user-attachments/assets/cdbc47c9-1eba-4c17-a87e-40eedfddbfad)
+![Screenshot 2024-07-21 131434](https://github.com/user-attachments/assets/cdbc47c9-1eba-4c17-a87e-40eedfddbfad) <br>
 Simulator Monitoring Platform:
 ![image](https://github.com/user-attachments/assets/fb32270e-6f62-4cb1-b39a-7634dcd812df)
 
