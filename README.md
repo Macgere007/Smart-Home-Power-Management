@@ -12,15 +12,29 @@ managing and optimizing their energy use, leading to higher electricity bills an
 environmental impacts.
 
 MATERIALS
-1. Software
-   1. Cisco Packet Tracer
-2 Hardware
-   1. Actuators: Air Conditioner, Humidifier, and Light
-   2. Sensors: Power Meter, Humidity Monitor, and Thermostat
-   3. Electronic Devices: Laptop, Smartphone, and PC
-   4. Servers: DHCP Server (main) , DNS Server
-   5. Router: Home Router
-   6. Switch: Switch 2960
+- **Software**
+  - Cisco Packet Tracer
+
+- **Hardware**
+  - **Actuators**
+    - Air Conditioner
+    - Humidifier
+    - Light
+  - **Sensors**
+    - Power Meter
+    - Humidity Monitor
+    - Thermostat
+  - **Electronic Devices**
+    - Laptop
+    - Smartphone
+    - PC
+  - **Servers**
+    - DHCP Server (main)
+    - DNS Server
+  - **Router**
+    - Home Router
+  - **Switch**
+    - Switch 2960
       
 METHODS
 In this project, the author utilizes Cisco Packet Tracer, a software tool essential for simulating
