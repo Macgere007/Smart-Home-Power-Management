@@ -50,13 +50,10 @@ threshold.
 ● Stops all devices when the usage time reaches approximately 5 minutes runtime.
 
 RESULTS AND DISCUSSION
-RESULTS
+
 Connection: All devices, server, and router are connected
 ![Screenshot 2024-07-21 131434](https://github.com/user-attachments/assets/cdbc47c9-1eba-4c17-a87e-40eedfddbfad)
 
-
-
-DISCUSSION
 The connection between sensors and actuators is monitored on electronic devices through an
 IoT monitor and web server accessible by typing "rustam.local" in the search bar. Conditions are
 set such that when the power meter reads 2 W or higher, the lamp and thermostat are activated;
@@ -64,7 +61,7 @@ when it reads 0 W, all devices are turned off. The humidifier activates when the
 reads 2 W and the humidity monitor indicates 50% or higher humidity. For the AC, it operates
 based on temperature, turning on when the temperature exceeds 18°C and auto and the AC is
 turned off when the status is off or under 18°C.
-5. CONCLUSION
+
 In conclusion, the Smart Home Power Management Simulator, implemented in Cisco Packet
 Tracer, emerges as a powerful tool for simulating and optimizing energy consumption within
 smart home environments. By seamlessly integrating IoT devices, smart appliances, and
