@@ -40,30 +40,30 @@ METHODS
 In this project, the author utilizes Cisco Packet Tracer, a software tool essential for simulating
 and monitoring IoT devices in electronic systems.
 
-1. Router Configuration:
-● Wireless settings:
-   ○ SSID: Rustam
-   ○ Password: Rustam123456789
-   
-2. Server Configuration:
-● DHCP Server:
-   ○ IP: 192.168.1.10
-● DNS Server:
-   ○ IP: 192.168.1.11
-   
-3. Devices Configuration
-● Laptop Configuration:
-   ○ Set IP address automatically using DHCP
-● Actuators Configuration:
-   ○ Configure wireless settings:
-      ■ Connect actuators to router
-● Sensors Configuration:
-   ○ Configure Ethernet adapter:
-      ■ Use auto cable for connection
-4. Power Meter Auto Turn-off Algorithm
-● Monitors electricity usage and initiates a turn-off sequence when usage exceeds a set
-threshold.
-● Stops all devices when the usage time reaches approximately 5 minutes runtime.
+- **Router Configuration**
+  - **Wireless Settings**
+    - SSID: Rustam
+    - Password: Rustam123456789
+
+- **Server Configuration**
+  - **DHCP Server**
+    - IP: 192.168.1.10
+  - **DNS Server**
+    - IP: 192.168.1.11
+
+- **Devices Configuration**
+  - **Laptop Configuration**
+    - Set IP address automatically using DHCP
+  - **Actuators Configuration**
+    - Configure wireless settings:
+      - Connect actuators to router
+  - **Sensors Configuration**
+    - Configure Ethernet adapter:
+      - Use auto cable for connection
+
+- **Power Meter Auto Turn-off Algorithm**
+  - Monitors electricity usage and initiates a turn-off sequence when usage exceeds a set threshold.
+  - Stops all devices when the usage time reaches approximately 5 minutes runtime.
 
 RESULTS AND DISCUSSION
 
