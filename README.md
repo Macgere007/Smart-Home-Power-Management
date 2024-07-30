@@ -13,37 +13,39 @@ environmental impacts.
 
 MATERIALS
 1. Software
-1. Cisco Packet Tracer
+   1. Cisco Packet Tracer
 2 Hardware
-1. Actuators: Air Conditioner, Humidifier, and Light
-2. Sensors: Power Meter, Humidity Monitor, and Thermostat
-3. Electronic Devices: Laptop, Smartphone, and PC
-4. Servers: DHCP Server (main) , DNS Server
-5. Router: Home Router
-6. Switch: Switch 2960
-   
+   1. Actuators: Air Conditioner, Humidifier, and Light
+   2. Sensors: Power Meter, Humidity Monitor, and Thermostat
+   3. Electronic Devices: Laptop, Smartphone, and PC
+   4. Servers: DHCP Server (main) , DNS Server
+   5. Router: Home Router
+   6. Switch: Switch 2960
+      
 METHODS
 In this project, the author utilizes Cisco Packet Tracer, a software tool essential for simulating
 and monitoring IoT devices in electronic systems.
-STEPS
+
 1. Router Configuration:
 ● Wireless settings:
-○ SSID: Rustam
-○ Password: Rustam123456789
+   ○ SSID: Rustam
+   ○ Password: Rustam123456789
+   
 2. Server Configuration:
 ● DHCP Server:
-○ IP: 192.168.1.10
+   ○ IP: 192.168.1.10
 ● DNS Server:
-○ IP: 192.168.1.11
+   ○ IP: 192.168.1.11
+   
 3. Devices Configuration
 ● Laptop Configuration:
-○ Set IP address automatically using DHCP
+   ○ Set IP address automatically using DHCP
 ● Actuators Configuration:
-○ Configure wireless settings:
-■ Connect actuators to router
+   ○ Configure wireless settings:
+      ■ Connect actuators to router
 ● Sensors Configuration:
-○ Configure Ethernet adapter:
-■ Use auto cable for connection
+   ○ Configure Ethernet adapter:
+      ■ Use auto cable for connection
 4. Power Meter Auto Turn-off Algorithm
 ● Monitors electricity usage and initiates a turn-off sequence when usage exceeds a set
 threshold.
@@ -53,6 +55,9 @@ RESULTS AND DISCUSSION
 
 Connection: All devices, server, and router are connected
 ![Screenshot 2024-07-21 131434](https://github.com/user-attachments/assets/cdbc47c9-1eba-4c17-a87e-40eedfddbfad)
+Simulator Monitoring Platform:
+![image](https://github.com/user-attachments/assets/fb32270e-6f62-4cb1-b39a-7634dcd812df)
+
 
 The connection between sensors and actuators is monitored on electronic devices through an
 IoT monitor and web server accessible by typing "rustam.local" in the search bar. Conditions are
